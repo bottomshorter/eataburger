@@ -2,7 +2,7 @@
 
 > Eat-a-Burger is a Full stack Node app using MySQL, Express, and Handlebars.
 
-[@View App](https://stormy-journey-95407.herokuapp.com/)
+[View App](https://stormy-journey-95407.herokuapp.com/)
 
 This app demonstrates the use of Node.js, Express.js, MySQL and Handlebars in creating a CRUD application. 
 
