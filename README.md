@@ -13,6 +13,8 @@ git clone
 npm install
 ```
 
+Remember to use your login (user and password) for MySQL Workbench so you can try it locally.
+
 ## Maintainer
 
 [@BottomShorter](https://github.com/bottomshorter)
