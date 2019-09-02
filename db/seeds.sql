@@ -1,5 +1,5 @@
 INSERT INTO burgers (`burger_name`, devoured, date)
 VALUES
-    ("Double Shackburger w/ Pickles", 0, CURRENT_TIMESTAMP),
-    ("Royale Avec Fromage", 0, CURRENT_TIMESTAMP),
-    ("Krusty Burger", 0, CURRENT_TIMESTAMP);
+    ("The Best Burger in the PNW", 0, CURRENT_TIMESTAMP),
+    ("Gold Leaf Wagyu Burger", 0, CURRENT_TIMESTAMP),
+    ("Rainbow Truffle Bison Burger", 0, CURRENT_TIMESTAMP);
